@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi  👋
+I'm a fullstack Javascript developer from the UK, now working in Alicante/Munich. Tambien hablo español!
+
+
 
 <!--
 **willworth/willworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
