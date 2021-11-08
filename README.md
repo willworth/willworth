@@ -1,5 +1,5 @@
 ### Hi  👋
-I'm a fullstack Javascript developer from the UK, now working in Alicante/Munich. Tambien hablo español!
+I'm a fullstack (mostly) javascript developer from the UK, now learning web3 and working in Alicante. Fixing things is the best way to complain. Tambien hablo español!
 
 
 
