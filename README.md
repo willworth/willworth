@@ -4,6 +4,47 @@ I'm a fullstack javascript developer (React in the front, Nest or plain Node in 
 
 
 <!--
+
+# Hi there, I'm [Your Name]! 👋
+
+🌐 Versatile Full Stack Developer | 💼 Open to Exciting Opportunities | 🌍 UK Native, Living & Working in Spain
+
+## About Me
+
+I'm a dedicated and versatile Full Stack JavaScript Developer with a strong foundation in React for frontend development, and Nest or plain Node.js for backend development. I have hands-on experience working with AWS, Google Cloud, and Azure cloud platforms. Originally from the UK, I'm now living and working in Spain, and I'm a firm believer that fixing things is the best way to complain. I'm also fluent in Spanish - ¡También hablo español!
+
+## My Skills
+
+- 🔭 Frontend: React, Redux, HTML, CSS, SASS
+- 🌐 Backend: Node.js, NestJS, Express
+- 📊 Databases: MongoDB, PostgreSQL, MySQL
+- ☁️ Cloud Platforms: AWS, Google Cloud, Azure
+- 🛠️ CI/CD: Docker, Kubernetes, Jenkins
+- 🏢 Version Control: Git, GitHub
+
+## My Values
+
+- 🌟 Commitment to delivering high-quality work
+- 🔄 Adaptability and willingness to learn new technologies
+- 🤝 Collaboration and effective communication
+- 📈 Continuous improvement and growth mindset
+
+## Connect With Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/), [Twitter](https://twitter.com/your-twitter-handle), or via email at your.email@example.com.
+
+## My Latest Projects
+
+- [Project 1](https://github.com/username/project1) - A brief description of Project 1
+- [Project 2](https://github.com/username/project2) - A brief description of Project 2
+- [Project 3](https://github.com/username/project3) - A brief description of Project 3
+
+Browse my repositories to see more of my work! 🚀
+
+If you're interested in collaborating or discussing job opportunities, don't hesitate to get in touch. Let's create something amazing together! 💪
+
+
+////////
 # Full Stack JavaScript Developer | AWS, Google Cloud, Azure | UK-Spain
 
 Hi there! My name is [Your Name], and I am a full-stack JavaScript developer. I have experience working with React in the front-end and either Nest or plain Node in the back-end. Additionally, I am proficient in using cloud services such as AWS, Google Cloud, and Azure. 
