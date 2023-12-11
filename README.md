@@ -1,5 +1,5 @@
 ### Hello, Internet.
-I'm a fullstack javascript developer (React in the front, Nest or plain Node in the back) with experience with aws, google cloud, and even azure. I'm from the UK, but now living and working in Spain. Fixing things is the best way to complain. Tambien hablo español!
+I'm a fullstack developer, mostly working with javascript, and with experience across aws, google cloud, and even azure. I'm from the UK, but now living and working in Spain. Fixing things is the best way to complain. Tambien hablo español!
 
 
 
