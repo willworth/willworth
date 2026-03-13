@@ -1,6 +1,6 @@
-# Hello, Internet. I'm Will 
+# Hello, Internet. I'm Will, a full-stack developer from the UK, currently based in Spain.
 
-I'm a full-stack developer from the UK, currently based in Spain. 
+
 
 _"Fixing things is the best way to complain."_
 
