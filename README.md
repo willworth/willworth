@@ -10,7 +10,7 @@ I write about the intersection of AI, software development, and technological ov
 
 I've been mapping domains where capability exists but deployment lags—and building tools to close the gap:
 
-*   🧬 **[RxLens](https://rxlens.willworth.dev)** — A purely client-side pharmacogenomics tool that translates 23andMe data into a CPIC clinician-ready report. [Read the essay](https://willworth.dev/pharmacogenomics).
+*   🧬 **[RxLens](https://rxlens.willworth.dev)** — A proof-of-concept pharmacogenomics tool exploring the gap between clinical capability and deployment. Translates 23andMe data into a CPIC report entirely client-side — but [read the essay first](https://willworth.dev/pharmacogenomics) for why I wouldn't upload my own data and what I'd recommend instead.
 *   🦓 **[Zebra Scout](https://zebra.willworth.dev)** — A rare disease symptom matcher using the Human Phenotype Ontology. [Read the essay](https://willworth.dev/rare-disease-diagnosis).
 *   ⚖️ **[Rightsclaim](https://rightsclaim.willworth.dev)** — An EU consumer rights claim generator that produces correctly-cited legal letters. [Read the essay](https://willworth.dev/consumer-rights).
 *   ⚡ **[Retrofit](https://retrofit.willworth.dev)** — A bilingual Spanish home energy retrofit advisor.
