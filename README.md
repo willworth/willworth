@@ -1,4 +1,4 @@
-# Hello, Internet. I'm Will, a full-stack developer from the UK, currently based in Spain.
+# Hello, Internet. I'm Will, a full-stack developer from the UK, based in Spain.
 
 
 
